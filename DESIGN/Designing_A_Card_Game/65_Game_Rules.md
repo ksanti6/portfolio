@@ -2,6 +2,8 @@
 ## Info 
 **Date:** Fall 2020  
 **Class:** DES 115 (Intro Design)  
+**Where:** DigiPen Institute of Technology
+
 The first game I designed!
 
 ## Goal
