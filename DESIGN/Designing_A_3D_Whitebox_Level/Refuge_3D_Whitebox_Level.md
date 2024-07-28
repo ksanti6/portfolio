@@ -1,4 +1,4 @@
-# Refuge, a 3D Level
+# Refuge, a 3D Whitebox Level
 
 ## Info
 **Date:** Fall 2021
