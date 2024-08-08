@@ -1,10 +1,23 @@
 # 65 Card Game
+**Contents**  
+[1. Info](#info)  
+[2. Goal](#goal)  
+[3. Results](#results)  
+[4. Process](#process)  
+[4.1 Inspriration - Where to Start?](#inspiration---where-to-start)  
+[4.2 Biggest Ostacle in the Iteration Process?](#biggest-obstacle-in-the-iteration-process)  
+[5. What I Would Do Differently](#what-i-would-do-differently)    
+[5.1 Visual Clarity](#visual-clarity)  
+[5.2 More Exciting Design](#more-exciting-design)  
+[6. What I Learned](#what-i-learned)  
+[7. Links](#links)  
+
 ## Info 
 **Date:** Fall 2020  
 **Class:** DES 115 (Intro Design)  
 **Where:** DigiPen Institute of Technology
 
-The first game I designed!
+The first game I designed! This project was made over a few weeks in class.
 
 ## Goal
 Design a card game that uses a standard deck of cards and can be played with 2 - 4 players.
@@ -38,7 +51,7 @@ Looking back at the design of this game, it is quite simple and I think it could
 I think a mechanic that makes the players engage with each other more would be an ideal add to this game. Perhaps making a special pair allows you to swap hands with a different player? Or even swap the hands of your oppoenents?  
 
 
-## What did I Learn from this Project
+## What I Learned
 I think an important concept I learned from this (besides that card games are not so easy to design ha) is that **the majority of the time players are not going to interact with your design as you intent.**  
 
 When I wrote the first version of the rules, I thought everything was written completely clear and there was no way that a player wouldn't be able to understand what I was trying to teach them. I quickly learned that wasn't the case. This is because the players had none of the context that I had.  
@@ -46,3 +59,6 @@ When I wrote the first version of the rules, I thought everything was written co
 For me, the rules made sense since I knew what I was trying to achieve with them. The players did not know any of that. Adding in context and better wording to the rules helped push the players to play the game the way I added.  
 
 With the context, it was also important to answer questions initially forgotten. For example: what to do when the draw pile is emptied? The design has to account for as many possibilities as is reasonably possible.
+
+## Links
+[My Portfolio](https://github.com/ksanti6/portfolio)  
