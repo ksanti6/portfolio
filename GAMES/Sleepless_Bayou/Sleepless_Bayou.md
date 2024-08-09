@@ -77,6 +77,6 @@ I was about to greatly grow my skills as a C++ programmer working in a custom en
 ## Links
 [My Portfolio](https://github.com/ksanti6/portfolio)  
 [Sleepless Bayou Trailer](https://youtu.be/ymIgTn1XzcY?si=K_5FM0VcAla2gUNw)  
-[Integrating FMOD into a Custom Engine]()  
-[Used Tiled with a Custom Engine]()  
+[Integrating FMOD into a Custom Engine](https://github.com/ksanti6/portfolio/blob/main/PROGRAMMING/FMOD_in_Custom_Engine/FMOD_in_Custom_Engine.md)  
+[Used Tiled with a Custom Engine](https://github.com/ksanti6/portfolio/blob/main/PROGRAMMING/Tiled_in_Custom_Engine/Tiled_in_Custom_Engine.md)  
 
