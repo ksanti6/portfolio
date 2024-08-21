@@ -5,23 +5,29 @@
 [3. Work in Each Role](#work-in-each-role)  
 [3.1 Production](#production)  
 [3.2 Programming](#programming)  
-[3.3 Design](#design)  
 [4. What I Learned](#what-i-learned)  
 [5. Links](#links)  
 
 ## Info
-**Date:** Fall 2022 - Spring 2023
+**Date:** Fall 2022 - Spring 2023  
 **Class:** GAM 300/350 (junior game project class)  
 **Where:** DigiPen Institute of Technology  
 
-**This document is an overview of my contributions to this project, for more indepth look into certain tasks, check out the links at the bottom.**  
+**This document is an overview of my contributions to this project.**  
+
+Check out the trailer of the game, linked at the bottom.  
+
+**Team Composition:**  
+**Total Members:** 10 (including me!)  
+**Disciplines on team:** Audio, Design, Programming  
+**My Primary Roles:** Producer, Audio/Gameplay Programmer
 
 ## Game Concept
-Cu Blight is a fast-paced action roguelike isometric twin-stick shooter. Move, shoot, and dash your way through randomly selected rooms, gaining items along the way, with the goal of destroying everything that isn't the perfect shape (a cube).
+Cu Blight is a fast-paced action roguelike isometric twin-stick shooter. Move, shoot, and dash your way through randomly selected rooms, gaining items along the way, with the goal of destroying everything that isn't the perfect shape (a cube).  
+
 ## Work in Each Role
 ### Production
 ### Programming
-### Design
 ## What I Learned
 ## Links
 [My Portfolio](https://github.com/ksanti6/portfolio)  
