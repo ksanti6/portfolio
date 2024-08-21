@@ -29,9 +29,9 @@ Once the system was in place, some final testing was done to ensure it worked in
 
 This system ended up only being used for displaying the background art of the game.
 ## What I Would Do Differently
-The main thing I would do differently is get rid of all the hard coded "magic numbers". I think if I spent some more time on this feature I would be able to fix the code so there was no reliance on arbitrary numbers. This will allow for the code to scale better and be more easily appicable to other scenarios.
+The main thing I would do differently is get rid of all the hard coded "magic numbers". I think if I spent some more time on this feature I would be able to fix the code so there was no reliance on arbitrary numbers. This will allow for the code to scale better and be more easily applicable to other scenarios.
 ## What I Learned
 I learned a lot about interpreting data for use in a game engine. I learned more about how the Tiled software functions.
 ## Links
-[My Portfolio](https://github.com/ksanti6/portfolio) 
+[My Portfolio](https://github.com/ksanti6/portfolio)   
 [Sleepless Bayou Project Overview](https://github.com/ksanti6/portfolio/blob/main/GAMES/Sleepless_Bayou/Sleepless_Bayou.md)

@@ -36,5 +36,5 @@ To go along with that I would want to implement spatial audio. While it may not 
 I learned how to link APIs into a Visual Studio project.  
 I learned how to do a basic implementation of FMOD Core API.
 ## Links
-[My Portfolio](https://github.com/ksanti6/portfolio) 
+[My Portfolio](https://github.com/ksanti6/portfolio)   
 [Sleepless Bayou Project Overview](https://github.com/ksanti6/portfolio/blob/main/GAMES/Sleepless_Bayou/Sleepless_Bayou.md)

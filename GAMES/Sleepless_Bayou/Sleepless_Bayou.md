@@ -37,6 +37,7 @@ As Associate Producer, some of the work I did was:
 
 ### Programming  
 The main two programming tasks I did involved audio and Tiled. Below is a brief overview of those tasks, but if you want to see a more indepth discussion about these topics, there are links at the bottom.  
+
 **Audio**  
 I mainly worked on integrating FMOD Core API into the engine. This was a basic integration that read data from a JSON file and allowed for the following functionality:
 - playing looping background tracks
@@ -68,6 +69,7 @@ I worked on the tutorial aswell. It was a simple tutorial system comprised of a 
 - how to fish
 - how to use a dock
 - beware enemies  
+
 The tutorial would trigger when the player got close to areas that pertained to the tutorial subject for the first time. In the entire tutorial area, there were no monsters so the player could safely learn the skills necessary to play the game.
 
 ## What I Learned

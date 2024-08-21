@@ -22,6 +22,10 @@ The first game I designed! This project was made over a few weeks in class.
 ## Goal
 Design a card game that uses a standard deck of cards and can be played with 2 - 4 players.
 
+## Results
+You can find the game's rules located in the same folder as this file.
+
+
 ## Process
 
 ### Inspiration - Where to Start?
@@ -32,7 +36,7 @@ From there I started ironing out the basic details (rules structure, win conditi
 ### Biggest Obstacle in the Iteration Process?
 After version 1.0 of the game was created and the testing process began, I encountered my biggest obstacle - **readability.**  
 
-The first iteration of the rules were not read friendly, leading to playtesters skip over important rules and not play the game correctly. If they are not playing the game correctly, I cannot accurately assess if my testing goals are being met or not.  
+The first iteration of the rules were not reader friendly, leading to playtesters skipping over important rules and not playing the game correctly. If they are not playing the game correctly, I cannot accurately assess if my testing goals are being met or not.  
 
 Thus, the process of adding visual variety started. As you can see in the final version of this project I used a mix of formatting (structural and word) and color to make sure the rules were not a wall of text.  
 In addition to this, I made sure to continue to edit the contents of the rules to be encompassing, but also concise. 
@@ -48,15 +52,15 @@ Images could be used as well to concisely convey some of the concepts to cut dow
 ### More Exciting Design
 Looking back at the design of this game, it is quite simple and I think it could use another mechanic or twist to spice up the gameplay. As the game stands, there is nothing in particular about the design that sticks in your brain. If you were to put this game in a line up with similar games, it would be hard to pick it out.  
 
-I think a mechanic that makes the players engage with each other more would be an ideal add to this game. Perhaps making a special pair allows you to swap hands with a different player? Or even swap the hands of your oppoenents?  
+I think a mechanic that makes the players engage with each other more would be an ideal add to this game. Perhaps making a special pair allows you to swap hands with a different player? Or even swap the hands of your opponents?  
 
 
 ## What I Learned
 I think an important concept I learned from this (besides that card games are not so easy to design ha) is that **the majority of the time players are not going to interact with your design as you intent.**  
 
-When I wrote the first version of the rules, I thought everything was written completely clear and there was no way that a player wouldn't be able to understand what I was trying to teach them. I quickly learned that wasn't the case. This is because the players had none of the context that I had.  
+When I wrote the first version of the rules, I thought everything was written clearly and there was no way that a player wouldn't be able to understand what I was trying to teach them. I quickly learned that wasn't the case. This is because the players had none of the context that I had.  
 
-For me, the rules made sense since I knew what I was trying to achieve with them. The players did not know any of that. Adding in context and better wording to the rules helped push the players to play the game the way I added.  
+For me, the rules made sense since I knew what I was trying to achieve with them. The players did not know any of that. Adding in context and better wording to the rules helped push the players to play the game the way I intended.  
 
 With the context, it was also important to answer questions initially forgotten. For example: what to do when the draw pile is emptied? The design has to account for as many possibilities as is reasonably possible.
 

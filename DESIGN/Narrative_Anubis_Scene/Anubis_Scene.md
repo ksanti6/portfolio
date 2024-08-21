@@ -26,13 +26,22 @@ Two former lovers have claim to the same heart upon death, but only one of them 
 ## Process
 
 I was looking at various mythologies for inspiration when I eventually stumbled upon Anubis and how he judges the dead who want to enter the afterlife.   
-After discussing said mythology with a friend, we had found a question that we didn't have an answer for: **How do people who have a heart transplant get judged by Anubis?**  
+
+After discussing said mythology with a friend, we had found a question that we didn't have an answer for:  
+**How do people who have a heart transplant get judged by Anubis?**  
+
 Thinking about it, I knew that this would be a great scenario to write about and thus it became the first scene brief I made.  
-Of course I had to up the stakes, what if the two people who are now associated with the heart had previous ties together? How would that impact the scenario (and their relationship) now that they are in the afterlife? 
+Of course I had to up the stakes; what if the two people who are now associated with the heart had previous ties together?  
+How would that impact the scenario (and their relationship) now that they are in the afterlife?  
+
+These are the questions I kept in mind while writing out the scene to make sure I stayed on topic. 
 
 ## What I Would do Differently
-I think I would like to itterate on the character lines in the scene more. Having strong character voice isn't easy to get right on the first try. 
+I think I would like to iterate on the character lines in the scene more. Having strong character voice isn't easy to get right on the first try.  
+I would like the characters' personalities to shine more in this short scene to truely bring to life this scene. 
+
 ## What I Learned
 How to describe a scene in a compact and efficient manner. There's an art to making the perfect bite sized scene that gets across important information/choices to the player while also not dragging on too long. I still have a lot to learn in that art, but I certained leveled up my skills with this mini project.
+
 ## Links
 [My Portfolio](https://github.com/ksanti6/portfolio)  

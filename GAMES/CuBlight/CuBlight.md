@@ -37,7 +37,7 @@ These are the tasks I was in charge of during development.
 
 **Audio**  
 It was my job to integrate Wwise with spatial audio into Unity and manage all the audio events for background music and sound effects.  
-I continuely communicated with our Sound Designer to keep him in the loop about what sound effects the game needed and ensue I implemented the audio in the way he intended.  
+I continuely communicated with our Sound Designer to keep him in the loop about what sound effects the game needed and ensure I implemented the audio in the way he intended.  
 
 **Items**  
 The other main system I worked on dealt with the items. I implemented how the player gains items.  
@@ -46,9 +46,12 @@ I worked on the logic behind this and the UI involved with it.
 
 **Input**  
 I worked on the games seamless swapping between the two input sources: mouse/keyboard and controller.  
-I used the Unity Input System to capture the inputs from each source and then wrote a script that detected which was last used and uses that for the game. The player is able to switch which source they want to use mid game with ease.
+I used the Unity Input System to capture the inputs from each source and then wrote a script that detected which was last used and use that for the game. The player is able to switch which source they want to use mid game with ease.
+
 ## What I Learned
 I solidified my skills in Unity from working on this project.  
+I learned about Unity's Input System and how Unity interacts with Wwise.  
+
 I learned a lot about being a team leader and what it takes to hit and surpass milestones without crunch. Communication between different disciplines is king.  
 
 ## Links
