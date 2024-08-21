@@ -73,7 +73,7 @@ The tutorial would trigger when the player got close to areas that pertained to 
 ## What I Learned
 This project was my first time working on an multiple discipline team to make a finished product.  
 I learned a lot about how to communicate across different disciplines and meet in the middle. Also, I learned how to consistently contribute to a long term project with other people in my discipline.  
-I was about to greatly grow my skills as a C++ programmer working in a custom engine setting. Not to mention being able to adjust to a new engine system that I didn't help create from the ground up.
+I was able to greatly grow my skills as a C++ programmer working in a custom engine setting. Not to mention being able to adjust to a new engine system that I didn't help create from the ground up.
 ## Links
 [My Portfolio](https://github.com/ksanti6/portfolio)  
 [Sleepless Bayou Trailer](https://youtu.be/ymIgTn1XzcY?si=K_5FM0VcAla2gUNw)  

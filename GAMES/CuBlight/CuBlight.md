@@ -27,8 +27,30 @@ Cu Blight is a fast-paced action roguelike isometric twin-stick shooter. Move, s
 
 ## Work in Each Role
 ### Production
+As Producer some of the tasks I was in charge of were:  
+- lead efficient all discipline meetings
+- used Trello to track progress towards milestones
+- delivered milestone presentations to professors
+
 ### Programming
+These are the tasks I was in charge of during development.  
+
+**Audio**  
+It was my job to integrate Wwise with spatial audio into Unity and manage all the audio events for background music and sound effects.  
+I continuely communicated with our Sound Designer to keep him in the loop about what sound effects the game needed and ensue I implemented the audio in the way he intended.  
+
+**Items**  
+The other main system I worked on dealt with the items. I implemented how the player gains items.  
+The player kills enemies and gains EXP. Once their EXP bar is full, they receive a pop up that allows them to choose between 2 items/upgrades.  
+I worked on the logic behind this and the UI involved with it.  
+
+**Input**  
+I worked on the games seamless swapping between the two input sources: mouse/keyboard and controller.  
+I used the Unity Input System to capture the inputs from each source and then wrote a script that detected which was last used and uses that for the game. The player is able to switch which source they want to use mid game with ease.
 ## What I Learned
+I solidified my skills in Unity from working on this project.  
+I learned a lot about being a team leader and what it takes to hit and surpass milestones without crunch. Communication between different disciplines is king.  
+
 ## Links
 [My Portfolio](https://github.com/ksanti6/portfolio)  
 [Cu Blight Trailer](https://youtu.be/JvKE0z_sxak?si=2lX8I51YkoN9INUX)  
