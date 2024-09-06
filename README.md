@@ -74,6 +74,15 @@ Majority of these will be projects done outside of college, but will be noted ac
 Redesigning a previous level whitebox.  
 [Refuge Redesign](https://github.com/ksanti6/Refuge_Redo)  
 
+---  
+
+### **Programming Projects**
+
+---  
+
+A game where a mouse must evade cats and eat all the cheese in the level.  
+[Simple 2D](https://github.com/ksanti6/portfolio/blob/main/PROGRAMMING/Simple2D/Simple2D.md)  
+
 ---
 
 More projects to be added to this section soon!
